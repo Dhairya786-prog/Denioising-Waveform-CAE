@@ -78,11 +78,6 @@ Each noise type is evaluated with quantitative metrics and visualized using vali
 
 ---
 
-## 🧑‍💻 Author
-
-Developed by [Your Name]
-
----
 
 ## 📄 License
 
